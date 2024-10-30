@@ -477,9 +477,9 @@
   <string name="protection_setup_successfully">~Þàššŵôŕð šéţûþ šûççéššƒûļļý· Þļéàšé ŕéîñšţàļļ ţĥé àþþ îñ çàšé ýôû ƒôŕĝéţ îţ·</string>
   <string name="purchase">~Þûŕçĥàšé</string>
   <string name="purchase_simple_thank_you">~Þûŕçĥàšé Šîɱþļé Ţĥàñķ Ýôû</string>
-  <string name="purchase_thank_you"><![CDATA[~
+  <string name="purchase_thank_you">~
             Þļéàšé þûŕçĥàšé <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Šîɱþļé Ţĥàñķ Ýôû</a> ţô ûñļôçķ ţĥîš ƒûñçţîôñ àñð šûþþôŕţ ţĥé ðéṽéļôþɱéñţ· Ţĥàñķš¡
-        ]]></string>
+        </string>
   <string name="random">~Ŕàñðôɱ</string>
   <string name="rate">~Ŕàţé</string>
   <string name="rate_us_prompt">~Ĥéļļô،\n\nîţ ļôôķš ļîķé ýôû àŕé ûšîñĝ ţĥîš àþþ ƒôŕ ǫûîţé à ŵĥîļé àļŕéàðý، àñð ŵé ŕéàļļý àþþŕéçîàţé îţ·\n\nÎƒ ŵé çàñ àšķ ýôû à ƒàṽôŕ، þļéàšé ŕàţé ûš ôñ Ĝôôĝļé Þļàý· Ţĥàţ ŵôûļð ŕéàļļý ĥéļþ ûš à ļôţ·\n\nÑô ɱàţţéŕ ĥôŵ ýôû ðéçîðé، ýôû ŵîļļ ñôţ šéé ţĥîš ɱéššàĝé àĝàîñ·\n\nŢĥàñķš¡</string>
@@ -558,9 +558,9 @@
   <string name="show_hidden_items">~Šĥôŵ ĥîððéñ îţéɱš</string>
   <string name="show_info_bubble">~Šĥôŵ àñ îñƒô ƀûƀƀļé àţ šçŕôļļîñĝ îţéɱš ƀý šçŕôļļƀàŕ ðŕàĝĝîñĝ</string>
   <string name="show_the_recycle_bin">~Šĥôŵ ţĥé Ŕéçýçļé Ɓîñ</string>
-  <string name="sideloaded_app"><![CDATA[~
+  <string name="sideloaded_app">~
             Îţ ļôôķš ļîķé ýôûŕ àþþ ṽéŕšîôñ îš çôŕŕûþţ· Þļéàšé ðôŵñļôàð ţĥé ôŕîĝîñàļ ṽéŕšîôñ <a href="%s">ĥéŕé</a>·
-        ]]></string>
+        </string>
   <string name="simple_commons">~Šîɱþļé Çôɱɱôñš</string>
   <string name="simple_renaming">~Šîɱþļé ŕéñàɱîñĝ</string>
   <string name="size">~Šîžé</string>
